@@ -4,12 +4,12 @@ This repository contains Python scripts for exploring the stock market, includin
 ## Prerequisites
 Before running the script, make sure you have the following libraries installed:
 
-yfinance
-numpy
-pandas
-tensorflow
-scikit-learn
-matplotlib
+- yfinance
+- numpy
+- pandas
+- tensorflow
+- scikit-learn
+- matplotlib
 
 You can install them using pip:
 pip install yfinance numpy pandas tensorflow scikit-learn matplotlib
@@ -33,9 +33,9 @@ python visualize_stock_data.py
 ## Example
 Here's a simple example of how to use the script:
 
-Stock Symbol: AAPL
-Start Date: 2020-01-01
-End Date: 2022-01-01
+- Stock Symbol: AAPL
+- Start Date: 2020-01-01
+- End Date: 2022-01-01
 
 ## Stock Price Prediction
 This Python script utilizes Long Short-Term Memory (LSTM) neural networks to predict future stock prices based on historical data fetched from Yahoo Finance API.
@@ -55,9 +55,9 @@ python Predict_stock_data.py
 ## Example
 Here's a simple example of how to use the script:
 
-Stock Symbol: AAPL
-Start Date: 2020-01-01
-End Date: 2025-01-01
+- Stock Symbol: AAPL
+- Start Date: 2020-01-01
+- End Date: 2025-01-01
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
