@@ -1,7 +1,7 @@
 # Exploring-the-Stock-Market
 This repository contains Python scripts for exploring the stock market, including fetching historical stock data and predicting future stock prices using Long Short-Term Memory (LSTM) neural networks.
 
-## Prerequisites
+### Prerequisites
 Before running the script, make sure you have the following libraries installed:
 
 - yfinance
@@ -18,7 +18,7 @@ pip install yfinance numpy pandas tensorflow scikit-learn matplotlib
 ## Stock Prediction GUI
 This Python script allows users to fetch and visualize historical stock price data using the Yahoo Finance API. It provides a simple Graphical User Interface (GUI) built with tkinter for ease of use.
 
-## Useage
+### Useage
 
 1. Clone the repository to your local machine:
 git clone https://github.com/MilanSajiv/Exploring-the-Stock-Market.git
@@ -30,7 +30,7 @@ python visualize_stock_data.py
 
 4. Click the "Show Graph" button to fetch and display the historical stock price data
 
-## Example
+### Example
 Here's a simple example of how to use the script:
 
 - Stock Symbol: AAPL
@@ -40,7 +40,7 @@ Here's a simple example of how to use the script:
 ## Stock Price Prediction
 This Python script utilizes Long Short-Term Memory (LSTM) neural networks to predict future stock prices based on historical data fetched from Yahoo Finance API.
 
-## Useage
+### Useage
 
 1. Clone the repository to your local machine:
 git clone https://github.com/MilanSajiv/Exploring-the-Stock-Market.git
@@ -52,7 +52,7 @@ python Predict_stock_data.py
 
 4. The script will fetch historical stock data, train an LSTM model, make predictions, and plot the actual vs. predicted stock prices.
 
-## Example
+### Example
 Here's a simple example of how to use the script:
 
 - Stock Symbol: AAPL
