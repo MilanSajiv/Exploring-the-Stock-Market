@@ -23,7 +23,7 @@ This Python script allows users to fetch and visualize historical stock price da
 1. Clone the repository to your local machine:
 git clone https://github.com/MilanSajiv/Exploring-the-Stock-Market.git
 
-2.Run the script:
+2. Run the script:
 python visualize_stock_data.py
 
 3. Enter the stock symbol, start date, and end date in the respective input fields
