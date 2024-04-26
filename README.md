@@ -45,7 +45,7 @@ This Python script utilizes Long Short-Term Memory (LSTM) neural networks to pre
 1. Clone the repository to your local machine:
 git clone https://github.com/MilanSajiv/Exploring-the-Stock-Market.git
 
-2.Run the script:
+2. Run the script:
 python Predict_stock_data.py
 
 3. Follow the prompts to enter the stock symbol, start date, and end date for which you want to predict the stock prices.
