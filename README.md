@@ -12,7 +12,7 @@ Before running the script, make sure you have the following libraries installed:
 - matplotlib
 
 You can install them using pip:
-pip install yfinance numpy pandas tensorflow scikit-learn matplotlib
+- pip install yfinance numpy pandas tensorflow scikit-learn matplotlib
 
 
 ## Stock Prediction GUI
@@ -21,10 +21,10 @@ This Python script allows users to fetch and visualize historical stock price da
 ### Useage
 
 1. Clone the repository to your local machine:
-git clone https://github.com/MilanSajiv/Exploring-the-Stock-Market.git
+- git clone https://github.com/MilanSajiv/Exploring-the-Stock-Market.git
 
 2. Run the script:
-python visualize_stock_data.py
+- python visualize_stock_data.py
 
 3. Enter the stock symbol, start date, and end date in the respective input fields
 
@@ -43,10 +43,10 @@ This Python script utilizes Long Short-Term Memory (LSTM) neural networks to pre
 ### Useage
 
 1. Clone the repository to your local machine:
-git clone https://github.com/MilanSajiv/Exploring-the-Stock-Market.git
+- git clone https://github.com/MilanSajiv/Exploring-the-Stock-Market.git
 
 2. Run the script:
-python Predict_stock_data.py
+- python Predict_stock_data.py
 
 3. Follow the prompts to enter the stock symbol, start date, and end date for which you want to predict the stock prices.
 
